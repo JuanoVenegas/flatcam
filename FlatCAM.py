@@ -1,5 +1,6 @@
 import sys
-from PyQt5 import sip
+#from PyQt5 import sip
+import sip
 
 from PyQt5 import QtGui, QtCore, QtWidgets
 from FlatCAMApp import App

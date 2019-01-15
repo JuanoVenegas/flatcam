@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=FlatCAM 8.901 BETA
+Icon=flatcam_py.png
+Path=/home/mitsu/git/public/juano/flatcam
+Exec=python3 FlatCAM.py
+StartupNotify=false
+StartupWMClass=FlatCAM.py
+OnlyShowIn=Unity;
+X-UnityGenerated=true
+Name[en_US]=flatcam.desktop
